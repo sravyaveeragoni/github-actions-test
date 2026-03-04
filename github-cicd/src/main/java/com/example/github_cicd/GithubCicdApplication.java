@@ -12,7 +12,7 @@ public class GithubCicdApplication {
 	public String hello() {
 		return "Hello World";
 	}
-	//
+
 
 	public static void main(String[] args) {
 		SpringApplication.run(GithubCicdApplication.class, args);
